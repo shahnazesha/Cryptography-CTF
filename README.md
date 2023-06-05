@@ -13,8 +13,11 @@ Side-Channel Attacks: Exploiting unintended information leakage from a system (e
 Obfuscation: Hiding the true purpose or behavior of code to prevent reverse engineering.
 # Tools
 https://www.dcode.fr/cipher-identifier (The ultimate online tool)
+
 https://cryptii.com/ (for more)
+
 https://cyberchef.org/ (for multiple layer encryption)
+
 https://www.tunnelsup.com/hash-analyzer/ (for analyzing hash type)
 # Practice 
 *https://play.picoctf.org/practice
