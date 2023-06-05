@@ -17,7 +17,7 @@ https://cryptii.com/ (for more)
 https://cyberchef.org/ (for multiple layer encryption)
 https://www.tunnelsup.com/hash-analyzer/ (for analyzing hash type)
 # Practice 
-https://play.picoctf.org/practice
-https://www.hackthebox.com/
-https://tryhackme.com/
-https://ctflearn.com/challenge/125
+*https://play.picoctf.org/practice
+*https://www.hackthebox.com/
+*https://tryhackme.com/
+*https://ctflearn.com/challenge/125
